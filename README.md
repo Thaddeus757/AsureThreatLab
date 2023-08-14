@@ -1,15 +1,15 @@
-<h1>Asure Sentinel Threat Lab</h1>
+<h1>Azure Sentinel Threat Lab</h1>
 
 
 <h2>Description</h2>
-Project consists of using Microsoft Asure to setup a active virtual machine and a honeypot. I use both of these to together to show bruteforce attacks from around the world. Also using a custom powershell script to see the geographical location of the attackers. 
+Project consists of using Microsoft Azure to setup a active virtual machine and a honeypot. I use both of these to together to show bruteforce attacks from around the world. Also using a custom powershell script to see the geographical location of the attackers. 
 <br />
 
 
 <h2>Languages and Utilities Used</h2>
 
 - <b>PowerShell</b> 
-- <b>Microsoft Asure</b>
+- <b>Microsoft Azure</b>
 
 <h2>Environments Used </h2>
 
